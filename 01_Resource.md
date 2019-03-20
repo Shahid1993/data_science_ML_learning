@@ -1,3 +1,6 @@
+**Copied From https://github.com/amrrs/For-Data-Science-Beginners**
+
+
 # For Data Science Beginners
 Set of Notes with links to help those who are Data Science Beginners
 
